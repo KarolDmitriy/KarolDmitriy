@@ -21,7 +21,6 @@
 | [Smart Service CRM](https://github.com/KarolDmitriy/smart_service_crm) | CRM-система для сервисного центра по ремонту техники | Python, SQLite, Pandas |
 | [PhotoAnalyst Bot](https://github.com/KarolDmitriy/PhotoAnalystBot) | Телеграм-бот для анализа фотографий (резкость, освещённость, контраст) | Python, OpenCV, Aiogram |
 | [BudgetWise](https://github.com/KarolDmitriy/BudgetWise) | Streamlit-приложение для управления личным бюджетом | Python, Streamlit, SQLite, Pandas |
-| Salary Analysis | Анализ зарплат по регионам России (в процессе разработки) | Python, Pandas, Matplotlib |
 
 ---
 
